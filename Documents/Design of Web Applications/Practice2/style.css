@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+}
+body{
+    font-family: Arial;
+    background-color: rgb(2, 2, 64);
+}
+
+header{
+    color: white;
+    background-color: rgb(2, 2, 100);
+    font-size: larger;
+    text-align: center;
+    padding: 15px;
+}
+img {
+    /* Ayuda de ChatGPT para ajustar el tamaño de imagenes */
+    width: 200px;   /* todas las imágenes tendrán el mismo ancho */
+    height: auto;   /* la altura se ajusta automáticamente */
+}
+
+.Producto{
+    display: flex;
+    background-color: white;
+    margin: 20px auto;
+    padding: 20px ;
+    border-radius: 10px;
+
+}
+
+.Productos{
+    width: 370px;
+    margin: 2px auto;
+}
+
+

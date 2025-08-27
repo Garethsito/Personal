@@ -1,0 +1,30 @@
+:root{
+    --text-color: #1a1c20;
+    --link-color: #4a76ee;
+    --background-color: #eeeff1;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    font-family: 'Funnel Display';
+    background-color: var(--background-color);
+}
+
+a{
+    color: var(--link-color);
+    text-decoration: none;
+}
+
+nav{
+    display: flex;
+    padding: 0 30px;
+    height: 80px;
+}

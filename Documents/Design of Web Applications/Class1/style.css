@@ -1,0 +1,25 @@
+/*global*/
+*{
+    margin: 0;
+    padding:0
+}
+body{
+    font-family: arial;
+}
+p{
+    line-height: 2;
+}
+header{
+    background-color: yellow;
+    height: 300px;
+}
+
+h1{
+    font-size: 72px;
+
+}
+
+main{
+    background-color: black;
+    color: white;
+}
