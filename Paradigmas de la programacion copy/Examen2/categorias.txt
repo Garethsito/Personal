@@ -1,0 +1,6 @@
+Electrónica,Productos electrónicos como televisores, audio y video
+Computación,Equipos de cómputo y accesorios como laptops y tablets,Tecnología
+Telefonía,Dispositivos móviles y accesorios como celulares y audífonos,Tecnología
+Electrodomésticos,Artículos para el hogar como lavadoras y refrigeradores,Hogar
+Videojuegos,Consolas y accesorios de videojuegos,Entretenimiento
+impresora,alguna,otra

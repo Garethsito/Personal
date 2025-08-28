@@ -1,0 +1,6 @@
+1,secretaria2000
+2,conductor3000
+3,ayudante2300
+4,guardia3500
+5,administrativo2800
+6,popo3000
